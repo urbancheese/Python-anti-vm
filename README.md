@@ -25,7 +25,7 @@ If any of these checks return a positive result, the script will conclude that i
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/antivm-detection.git
+    git clone https://github.com/urbancheese/antivm.git
     cd antivm-detection
     ```
 
