@@ -51,3 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to submit issues or pull requests if you encounter any problems or have suggestions for improvement.
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
